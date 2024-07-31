@@ -9,11 +9,11 @@ const Error = () => {
 
   return (
     <>
-      <p className="text-base sm:text-[20px]">Oops!</p>
-      <p className="text-base sm:text-[20px]">
+      <p className="text-base sm:text-[20px] ml-3">Oops!</p>
+      <p className="text-base sm:text-[20px] ml-3">
         Sorry, an unexpected error has occurred.
       </p>
-      <div className="text-base sm:text-[20px]">{message}</div>
+      <div className="text-base sm:text-[20px] ml-3">{message}</div>
     </>
   );
 };
