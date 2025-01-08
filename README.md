@@ -59,4 +59,5 @@ I welcome contributions from the community to help improve this project. Whether
 
 ## 📬 Contact
 
-Have questions or suggestions? Feel free to reach out at [bushranaeem941@gmail.com]. Let's connect and make this project even better!🤍
+Have questions or suggestions? Feel free to reach out at [bushranaeem941@gmail.com].
+Let's connect and make this project even better!🤍
